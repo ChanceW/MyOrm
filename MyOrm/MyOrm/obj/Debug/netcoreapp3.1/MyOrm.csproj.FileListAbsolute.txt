@@ -1,0 +1,9 @@
+C:\Projects\MyOrm\MyOrm\MyOrm\bin\Debug\netcoreapp3.1\MyOrm.deps.json
+C:\Projects\MyOrm\MyOrm\MyOrm\bin\Debug\netcoreapp3.1\MyOrm.dll
+C:\Projects\MyOrm\MyOrm\MyOrm\bin\Debug\netcoreapp3.1\MyOrm.pdb
+C:\Projects\MyOrm\MyOrm\MyOrm\obj\Debug\netcoreapp3.1\MyOrm.AssemblyInfoInputs.cache
+C:\Projects\MyOrm\MyOrm\MyOrm\obj\Debug\netcoreapp3.1\MyOrm.AssemblyInfo.cs
+C:\Projects\MyOrm\MyOrm\MyOrm\obj\Debug\netcoreapp3.1\MyOrm.csproj.CoreCompileInputs.cache
+C:\Projects\MyOrm\MyOrm\MyOrm\obj\Debug\netcoreapp3.1\MyOrm.dll
+C:\Projects\MyOrm\MyOrm\MyOrm\obj\Debug\netcoreapp3.1\MyOrm.pdb
+C:\Projects\MyOrm\MyOrm\MyOrm\obj\Debug\netcoreapp3.1\MyOrm.csprojAssemblyReference.cache
